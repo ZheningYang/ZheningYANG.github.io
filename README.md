@@ -1,7 +1,3 @@
-# zhening-yang.github.io
-
-# Zhening YANG
-
 **Développeur Fullstack Senior**
 
 📧 [zhening.yang@gmail.com](mailto:zhening.yang@gmail.com)
